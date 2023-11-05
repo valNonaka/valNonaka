@@ -1,4 +1,4 @@
-## Olá, Sou Val Nonaka, Ciêntista de Dados
+### 🌱 I’m currently learning **Python and SQL** for Data Science
 
 <div style="display: inline_block"><br>
   <p align="left">
