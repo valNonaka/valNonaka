@@ -1,5 +1,6 @@
-### 🌱 I’m currently learning **I'm currently learning **Python, SQL and all the math and statistics needed to really understand what I'm coding** 
+### 🌱 **I'm currently learning **Python, SQL and all the math and statistics needed to really understand what I'm coding** 
 ### 📖 pursuing a degree in software engineering
+### 
 
 <div style="display: inline-block;">
   <p align="left">
