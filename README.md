@@ -10,18 +10,20 @@
 - 🧠 Obsidian Nerd
 - 🐾 Cat person
 
-<h3>Main Skills</h3>
+<h4>Main Skills</h4>
 
 ![Python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Numpy](https://img.shields.io/badge/-numpy-333333?style=flat&logo=numpy)
 ![Pandas](https://img.shields.io/badge/-pandas-333333?style=flat&logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=python)
 ![Seaborn](https://img.shields.io/badge/-seaborn-333333?style=flat&logo=python)
 ![Scikitlearn](https://img.shields.io/badge/-scikitlearn-333333?style=flat&logo=scikit-learn)
-![Snalytics](https://img.shields.io/badge/-analytics-333333?style=flat&logo=google)
+![Sheets](https://img.shields.io/badge/-sheets-333333?style=flat&logo=google)
+![Analytics](https://img.shields.io/badge/-analytics-333333?style=flat&logo=google)
 ![Obsidian](https://img.shields.io/badge/-obsidian-333333?style=flat&logo=obsidian)
 
-
+<h4>Secondary Skills</h4>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
