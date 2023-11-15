@@ -7,16 +7,18 @@
 - 💼 Looking for a job, internship or any opportunity
 - 🌱 &nbsp; Learning more about **Machine Learning, Deep Learning** while improving my mathematics and Statistics skills
 - 🌐 English(intermediary), Portuguese(fluent),  Russian(beginner)
-- 
+- 🧠 Obsidian Nerd
+- 🐾 Cat person
 
 <h3>Main Skills</h3>
 
 ![Python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Pandas](https://img.shields.io/badge/-pandas-333333?style=flat&logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=python)
 ![Seaborn](https://img.shields.io/badge/-seaborn-333333?style=flat&logo=python)
-![scikitlearn](https://img.shields.io/badge/-scikitlearn-333333?style=flat&logo=scikit-learn)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Scikitlearn](https://img.shields.io/badge/-scikitlearn-333333?style=flat&logo=scikit-learn)
+![Snalytics](https://img.shields.io/badge/-analytics-333333?style=flat&logo=google)
 ![Obsidian](https://img.shields.io/badge/-obsidian-333333?style=flat&logo=obsidian)
 
 
