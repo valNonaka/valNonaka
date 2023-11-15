@@ -4,7 +4,7 @@
 ## 📖 pursuing a degree in software engineering
 
 <div style="display: inline-block;">
-  <img ="icon" href="/favicon.ico" sizes="32x32">
+  <img src= " href=/favicon.ico"  alt="python" width="40" height="40"/>
 </div>
 
 <div style="display: inline-block;">
