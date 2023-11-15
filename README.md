@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=valNonaka&color=006bed)
 
-<h5>About me</h5>
+<h3>About me</h3>
 
 - 🤔 I'm currently learning **Python, SQL and all the math and statistics needed to really understand what I'm coding** 
 - 📖 Pursuing a degree in software engineering
@@ -10,7 +10,7 @@
 - 🧠 Obsidian Nerd
 - 🐾 Cat person
 
-<h5>where to find me</h5>
+<h4>where to find me</h4>
   <div> 
  <a href="https://www.instagram.com/nonaka.val/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.youtube.com" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
