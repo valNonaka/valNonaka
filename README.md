@@ -20,7 +20,7 @@
     <h5>youtube chanel still in progress</h5>
 </div>
 
-<h5>Main Skills</h5>
+<h2>Main Skills</h2>
 
 ![Python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
@@ -34,7 +34,7 @@
 ![Analytics](https://img.shields.io/badge/-analytics-333333?style=flat&logo=google)
 ![Obsidian](https://img.shields.io/badge/-obsidian-333333?style=flat&logo=obsidian)
 
-<h4>Secondary Skills</h4>
+<h3>Secondary Skills</h3>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -42,7 +42,7 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-<h5>capabilities</h5>
+<h3>capabilities</h3>
 
 ![Python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
 - Data Preprocessing
