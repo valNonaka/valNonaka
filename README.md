@@ -29,6 +29,7 @@
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=python)
 ![Seaborn](https://img.shields.io/badge/-seaborn-333333?style=flat&logo=python)
 ![Scikitlearn](https://img.shields.io/badge/-scikitlearn-333333?style=flat&logo=scikit-learn)
+![Scipy](https://img.shields.io/badge/-scipy-333333?style=flat&logo=scipy)
 ![Selenium](https://img.shields.io/badge/-selenium-333333?style=flat&logo=selenium)
 ![Sheets](https://img.shields.io/badge/-sheets-333333?style=flat&logo=google)
 ![Analytics](https://img.shields.io/badge/-analytics-333333?style=flat&logo=google)
