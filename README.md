@@ -1,26 +1,25 @@
 ![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 
-<h3>About me</h3>
+<h5>About me</h5>
 
 - 🤔 I'm currently learning **Python, SQL and all the math and statistics needed to really understand what I'm coding** 
 - 📖 Pursuing a degree in software engineering
 - 💼 Looking for a job, internship or any opportunity
 - 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
 
-<h3>Minhas Skills</h3>
+<h3>Main Skills</h3>
 
-**Aplicações e dados**
-
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+
+
+![Python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
+![Pandas](https://img.shields.io/badge/-pandas-333333?style=flat&logo=pandas)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Obsidian](https://img.shields.io/badge/-obsidian-333333?style=flat&logo=obsidian)
+
+
 
 **Utilidades**
 
