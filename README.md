@@ -2,6 +2,7 @@
 
 ## 🌱 I'm currently learning **Python, SQL and all the math and statistics needed to really understand what I'm coding** 
 ## 📖 pursuing a degree in software engineering
+## 📝 Obsidian Nerd
 
 <div style="display: inline-block;">
   <p align="left">
