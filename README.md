@@ -10,7 +10,7 @@
 - 🧠 Obsidian Nerd
 - 🐾 Cat person
 
-<h3>where to find me</h3>
+<h5>where to find me</h5>
   <div> 
  <a href="https://www.instagram.com/nonaka.val/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.youtube.com" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -19,7 +19,7 @@
   <a href = "mailto:valdenirnonaka@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<h4>Main Skills</h4>
+<h5>Main Skills</h5>
 
 ![Python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
@@ -41,7 +41,7 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-<h4>Utilidades</h4>
+<h5>Utilities</h5>
 
 ![Python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
 - Data Preprocessing
@@ -59,7 +59,7 @@
 - Data Modification
 - Table and Database Management
 
-<h4>Ferramentas de desenvolvimento</h4>
+<h5>Development Tools/ Tool Box</h5>
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Anaconda](https://img.shields.io/badge/-anaconda-333333?style=flat&logo=anaconda)
