@@ -1,5 +1,8 @@
-### 🌱 I'm currently learning **Python, SQL and all the math and statistics needed to really understand what I'm coding** 
-### 📖 pursuing a degree in software engineering
+
+
+## 🌱 I'm currently learning **Python, SQL and all the math and statistics needed to really understand what I'm coding** 
+## 📖 pursuing a degree in software engineering
+<link rel="icon" href="/favicon.ico" sizes="32x32">
 
 <div style="display: inline-block;">
   <p align="left">
