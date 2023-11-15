@@ -55,18 +55,13 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Anaconda](https://img.shields.io/badge/-anaconda-333333?style=flat&logo=anaconda)
 ![JupyterLab](https://img.shields.io/badge/-jupyter-333333?style=flat&logo=jupyter)
-![Google Colab](https://img.shields.io/badge/-Google%20Colab-00FF00?style=flat&logo=google-colab)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
+![Google Colab](https://img.shields.io/badge/-colab-333333?style=flat&logo=google-colab)
 
 <br/>
 
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
-</a>
-
 <h3>Onde me encontrar</h3>
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](www.instagram.com/nonaka.val)
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/valdenir-nonaka-15711b260/)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](val.nonaka@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/valNonaka)
