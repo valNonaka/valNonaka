@@ -6,7 +6,7 @@
 - 📖 Pursuing a degree in software engineering (second stage)
 - 💼 Looking for a job, internship or any opportunity
 - 🌱 &nbsp;Learning more about **Machine Learning, Deep Learning** while improving my mathematics and Statistics skills
-- 🌐 English(intermediary), Portuguese(fluent),  Russian(beginner)
+- 🌐 English(advanced), Portuguese(fluent),  Russian(beginner)
 - 🧠 Obsidian Nerd
 - 🐾 Cat person
 
