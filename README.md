@@ -5,21 +5,25 @@
 - 🤔 I'm currently learning **Python, SQL and all the math and statistics needed to really understand what I'm coding** 
 - 📖 Pursuing a degree in software engineering
 - 💼 Looking for a job, internship or any opportunity
-- 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
+- 🌱 &nbsp; Learning more about **Machine Learning, Deep Learning** while improving my mathematics and Statistics skills
+- 🌐 English(intermediary), Portuguese(fluent),  Russian(beginner)
+- 
 
 <h3>Main Skills</h3>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-
-
 ![Python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
 ![Pandas](https://img.shields.io/badge/-pandas-333333?style=flat&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=python)
+![Seaborn](https://img.shields.io/badge/-seaborn-333333?style=flat&logo=python)
+![scikitlearn](https://img.shields.io/badge/-scikitlearn-333333?style=flat&logo=scikit-learn)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Obsidian](https://img.shields.io/badge/-obsidian-333333?style=flat&logo=obsidian)
 
 
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 
 **Utilidades**
 
