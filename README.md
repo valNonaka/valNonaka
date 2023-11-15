@@ -55,7 +55,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Anaconda](https://img.shields.io/badge/-anaconda-333333?style=flat&logo=anaconda)
 ![JupyterLab](https://img.shields.io/badge/-jupyter-333333?style=flat&logo=jupyter)
-
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-00FF00?style=flat&logo=google-colab)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
 
