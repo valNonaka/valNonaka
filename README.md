@@ -4,10 +4,6 @@
 ## 📖 pursuing a degree in software engineering
 
 <div style="display: inline-block;">
-  <img src= " href=/favicon.ico"  alt="python" width="40" height="40"/>
-</div>
-
-<div style="display: inline-block;">
   <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
