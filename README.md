@@ -1,10 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 
-<h3>Sobre mim</h3>
+<h3>About me</h3>
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando **SEU CURSO** no <a href="link da sua faculdade">SUA FACULDADE</a>.
-- 💼 Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>
+- 🤔 I'm currently learning **Python, SQL and all the math and statistics needed to really understand what I'm coding** 
+- 📖 Pursuing a degree in software engineering
+- 💼 Looking for a job, internship or any opportunity
 - 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
 
 <h3>Minhas Skills</h3>
