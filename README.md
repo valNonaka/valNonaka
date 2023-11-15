@@ -19,6 +19,7 @@
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=python)
 ![Seaborn](https://img.shields.io/badge/-seaborn-333333?style=flat&logo=python)
 ![Scikitlearn](https://img.shields.io/badge/-scikitlearn-333333?style=flat&logo=scikit-learn)
+![Selenium](https://img.shields.io/badge/-selenium-333333?style=flat&logo=selenium)
 ![Sheets](https://img.shields.io/badge/-sheets-333333?style=flat&logo=google)
 ![Analytics](https://img.shields.io/badge/-analytics-333333?style=flat&logo=google)
 ![Obsidian](https://img.shields.io/badge/-obsidian-333333?style=flat&logo=obsidian)
@@ -28,11 +29,19 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 **Utilidades**
-
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
+- Data Preprocessing
+- Data Cleaning
+- Descriptive Analysis
+- Data Visualization
+- Probability Analysis
+- Forecast Models
+- Experiment planning
+- Hypothesis Tests
 
 **DevOps**
 
