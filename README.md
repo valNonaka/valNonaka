@@ -61,6 +61,10 @@
 - Data Modification
 - Table and Database Management
 
+  
+![Selenium](https://img.shields.io/badge/-selenium-333333?style=flat&logo=selenium)
+- Web Automation
+
 <h5>Development Tools/ Tool Box</h5>
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
