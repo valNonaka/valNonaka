@@ -2,7 +2,6 @@
 
 <h3>About me</h3>
 
-- 📚 Data Scientist
 - 🤔 I'm currently learning **Python, SQL and all the math and statistics needed to really understand what I'm coding** 
 - 📖 Pursuing a degree in software engineering (second stage)
 - 💼 Looking for a job, internship or any opportunity
