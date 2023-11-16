@@ -43,7 +43,7 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-<h3>capabilities</h3>
+<h3>Capabilities</h3>
 
 ![Python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
 - Data Preprocessing
