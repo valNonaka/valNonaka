@@ -69,7 +69,7 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Anaconda](https://img.shields.io/badge/-anaconda-333333?style=flat&logo=anaconda)
-![JupyterLab](https://img.shields.io/badge/-jupyter-333333?style=flat&logo=jupyter)
+![JupyterLab](https://img.shields.io/badge/-jupyterlab-333333?style=flat&logo=jupyter)
 ![Google Colab](https://img.shields.io/badge/-colab-333333?style=flat&logo=google-colab)
 
 <br/>
