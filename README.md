@@ -37,6 +37,7 @@
 
 <h3>Secondary Skills</h3>
 
+![Flask](https://img.shields.io/badge/-flask-333333?style=flat&logo=flask)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -45,15 +46,15 @@
 
 <h3>Capabilities</h3>
 
-![Python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
-- Data Preprocessing
-- Data Cleaning
-- Descriptive Analysis
-- Data Visualization
-- Probability Analysis
-- Forecast Models
-- Experiment planning
-- Hypothesis Tests
+![Data Preprocessing](https://img.shields.io/badge/-DataPreprocessing-333333?style=flat&logo=python)
+![Data Cleaning](https://img.shields.io/badge/-Data_Cleaning-333333?style=flat&logo=python)
+![Descriptive Analysis](https://img.shields.io/badge/-Descriptive_Analysis-333333?style=flat&logo=python)
+![Data Visualization](https://img.shields.io/badge/-Data_Visualization-333333?style=flat&logo=python)
+![Probability Analysis](https://img.shields.io/badge/-Probability_Analysis-333333?style=flat&logo=python)
+![Forecast Models](https://img.shields.io/badge/-Forecast_Models-333333?style=flat&logo=python)
+![Experiment planning](https://img.shields.io/badge/-Experiment_planning-333333?style=flat&logo=python)
+![Hypothesis Tests](https://img.shields.io/badge/-Hypothesis_Tests-333333?style=flat&logo=python)
+
 
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 - Data Modeling
@@ -61,9 +62,14 @@
 - Data Modification
 - Table and Database Management
 
-  
 ![Selenium](https://img.shields.io/badge/-selenium-333333?style=flat&logo=selenium)
 - Web Automation
+
+![Flask](https://img.shields.io/badge/-flask-333333?style=flat&logo=flask)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+-  Sometimes I try to create some random pages for no particular reason
 
 <h5>Development Tools/ Tool Box</h5>
 
