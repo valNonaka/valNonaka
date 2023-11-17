@@ -55,15 +55,15 @@
 ![Experiment planning](https://img.shields.io/badge/-Experiment_planning-333333?style=flat&logo=python)
 ![Hypothesis Tests](https://img.shields.io/badge/-Hypothesis_Tests-333333?style=flat&logo=python)
 
-
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-- Data Modeling
-- Data Querying
-- Data Modification
-- Table and Database Management
+![MySQL](https://img.shields.io/badge/-Data_Modeling-FDEEF7?style=flat&logo=mysql)
+![MySQL](https://img.shields.io/badge/-Data_Querying-FDEEF7?style=flat&logo=mysql)
+![MySQL](https://img.shields.io/badge/-Data_Modification-FDEEF7?style=flat&logo=mysql)
+![MySQL](https://img.shields.io/badge/-Table_and_Database_Management-FDEEF7?style=flat&logo=mysql)
 
-![Selenium](https://img.shields.io/badge/-selenium-333333?style=flat&logo=selenium)
-- Web Automation
+
+![Selenium](https://img.shields.io/badge/-Web_Automation-333333?style=flat&logo=selenium)
+
 
 ![Flask](https://img.shields.io/badge/-flask-333333?style=flat&logo=flask)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
