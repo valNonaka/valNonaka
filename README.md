@@ -22,7 +22,7 @@
 
 <h2>Main Skills</h2>
 
-![Python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Numpy](https://img.shields.io/badge/-numpy-333333?style=flat&logo=numpy)
 ![Pandas](https://img.shields.io/badge/-pandas-333333?style=flat&logo=pandas)
@@ -46,6 +46,7 @@
 
 <h3>Capabilities</h3>
 
+![Python](https://img.shields.io/badge/-Statistics_with_Python-333333?style=flat&logo=python)
 ![Data Preprocessing](https://img.shields.io/badge/-DataPreprocessing-333333?style=flat&logo=python)
 ![Data Cleaning](https://img.shields.io/badge/-Data_Cleaning-333333?style=flat&logo=python)
 ![Descriptive Analysis](https://img.shields.io/badge/-Descriptive_Analysis-333333?style=flat&logo=python)
@@ -55,12 +56,12 @@
 ![Experiment planning](https://img.shields.io/badge/-Experiment_planning-333333?style=flat&logo=python)
 ![Hypothesis Tests](https://img.shields.io/badge/-Hypothesis_Tests-333333?style=flat&logo=python)
 
+
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![MySQL](https://img.shields.io/badge/-Data_Modeling-FDEEF7?style=flat&logo=mysql)
 ![MySQL](https://img.shields.io/badge/-Data_Querying-FDEEF7?style=flat&logo=mysql)
 ![MySQL](https://img.shields.io/badge/-Data_Modification-FDEEF7?style=flat&logo=mysql)
 ![MySQL](https://img.shields.io/badge/-Table_and_Database_Management-FDEEF7?style=flat&logo=mysql)
-
 
 ![Selenium](https://img.shields.io/badge/-Web_Automation-333333?style=flat&logo=selenium)
 
