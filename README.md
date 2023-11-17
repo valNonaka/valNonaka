@@ -50,7 +50,7 @@
 ![Data Preprocessing](https://img.shields.io/badge/-DataPreprocessing-333333?style=flat&logo=python)
 ![Data Cleaning](https://img.shields.io/badge/-Data_Cleaning-333333?style=flat&logo=python)
 ![Descriptive Analysis](https://img.shields.io/badge/-Descriptive_Analysis-333333?style=flat&logo=python)
-![Data Visualization](https://img.shields.io/badge/-Data_Visualization-333333?style=flat&logo=python)
+![Data Visualization](https://img.shields.io/badge/-Data_Visualization-65baea?style=flat&logo=python)
 ![Probability Analysis](https://img.shields.io/badge/-Probability_Analysis-333333?style=flat&logo=python)
 ![Forecast Models](https://img.shields.io/badge/-Forecast_Models-333333?style=flat&logo=python)
 ![Experiment planning](https://img.shields.io/badge/-Experiment_planning-333333?style=flat&logo=python)
