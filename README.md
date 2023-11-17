@@ -22,7 +22,7 @@
 
 <h2>Main Skills</h2>
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![https://www.python.org/](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Numpy](https://img.shields.io/badge/-numpy-333333?style=flat&logo=numpy)
 ![Pandas](https://img.shields.io/badge/-pandas-333333?style=flat&logo=pandas)
