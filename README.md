@@ -81,6 +81,14 @@
 
 <br/>
 
+<h5>My Obsidian Dashboard featuring my study notes.</h5>
+
+![Obsidian](https://img.shields.io/badge/-obsidian-333333?style=flat&logo=obsidian)
+
+![Imgur](https://i.imgur.com/fjEKSkZ.png)
+
+😉
+
 <!--<a href="https://www.instagram.com/nonaka.val/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
 
 
