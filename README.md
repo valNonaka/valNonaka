@@ -66,6 +66,8 @@
 ![MySQL](https://img.shields.io/badge/-Data_Modification-FDEEF7?style=flat&logo=mysql)
 ![MySQL](https://img.shields.io/badge/-Table_and_Database_Management-FDEEF7?style=flat&logo=mysql)
 
+![Create DashBoards wtih PowerBi](https://img.shields.io/badge/-PowerBi-333333?style=flat&logo=powerbi)
+
 ![growth](https://img.shields.io/badge/-%E2%9A%99%EF%B8%8F%20Growth%20Hacking%20-165DBB?style=flat&logo=logo=)
 
 ![Selenium](https://img.shields.io/badge/-Web_Automation-333333?style=flat&logo=selenium)
