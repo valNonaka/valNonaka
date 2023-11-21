@@ -60,7 +60,7 @@
 ![Hypothesis Tests](https://img.shields.io/badge/-Hypothesis_Tests-333333?style=flat&logo=python)
 
 
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![MySQL](https://img.shields.io/badge/-MySQL-FDEEF7?style=flat&logo=mysql)
 ![MySQL](https://img.shields.io/badge/-Data_Modeling-FDEEF7?style=flat&logo=mysql)
 ![MySQL](https://img.shields.io/badge/-Data_Querying-FDEEF7?style=flat&logo=mysql)
 ![MySQL](https://img.shields.io/badge/-Data_Modification-FDEEF7?style=flat&logo=mysql)
