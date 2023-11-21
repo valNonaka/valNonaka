@@ -33,6 +33,7 @@
 ![Selenium](https://img.shields.io/badge/-selenium-333333?style=flat&logo=selenium)
 ![Sheets](https://img.shields.io/badge/-sheets-333333?style=flat&logo=google)
 ![Analytics](https://img.shields.io/badge/-analytics-333333?style=flat&logo=google)
+![PowerBi](https://img.shields.io/badge/-PowerBi-333333?style=flat&logo=powerbi)
 ![Obsidian](https://img.shields.io/badge/-obsidian-333333?style=flat&logo=obsidian)
 
 <h3>Secondary Skills</h3>
