@@ -44,6 +44,8 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
+
+
 <h3>Capabilities</h3>
 
 ![Python](https://img.shields.io/badge/-Statistics_with_Python-333333?style=flat&logo=python)
@@ -63,8 +65,9 @@
 ![MySQL](https://img.shields.io/badge/-Data_Modification-FDEEF7?style=flat&logo=mysql)
 ![MySQL](https://img.shields.io/badge/-Table_and_Database_Management-FDEEF7?style=flat&logo=mysql)
 
-![Selenium](https://img.shields.io/badge/-Web_Automation-333333?style=flat&logo=selenium)
+![growth](https://img.shields.io/badge/-%E2%9A%99%EF%B8%8F%20Growth%20Hacking%20-165DBB?style=flat&logo=logo=)
 
+![Selenium](https://img.shields.io/badge/-Web_Automation-333333?style=flat&logo=selenium)
 
 ![Flask](https://img.shields.io/badge/-flask-333333?style=flat&logo=flask)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
