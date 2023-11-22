@@ -10,6 +10,7 @@
 - 🧠 Obsidian Nerd
 - 🐾 Cat person
 - 📁 Sometimes I try to create some random pages for no particular reason, always something about DataScience
+- 📝And I periodically write on Medium
 
 
 <h4>Where to find me</h4>
