@@ -34,6 +34,7 @@
 ![Scikitlearn](https://img.shields.io/badge/-scikitlearn-333333?style=flat&logo=scikit-learn)
 ![Scipy](https://img.shields.io/badge/-scipy-333333?style=flat&logo=scipy)
 ![PowerBi](https://img.shields.io/badge/-PowerBi-333333?style=flat&logo=powerbi)
+![PowerBi](https://img.shields.io/badge/-DAX-333333?style=flat&logo=powerbi)
 ![Selenium](https://img.shields.io/badge/-selenium-333333?style=flat&logo=selenium)
 ![Sheets](https://img.shields.io/badge/-sheets-333333?style=flat&logo=google)
 ![Analytics](https://img.shields.io/badge/-analytics-333333?style=flat&logo=google)
